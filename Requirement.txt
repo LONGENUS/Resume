@@ -1,0 +1,7 @@
+streamlit
+python-docx
+PyPDF2
+Jinja2
+pdfkit
+beautifulsoup4
+requests
