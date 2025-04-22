@@ -2,13 +2,7 @@
 # coding: utf-8
 
 # In[ ]:
-pip install streamlit
-pip install python-docx
-pip install PyPDF2
-pip install Jinja2
-pip install pdfkit
-pip install beautifulsoup4
-pip install requests
+
 
 
 # streamlit_app.py
